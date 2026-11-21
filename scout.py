@@ -507,13 +507,14 @@ def fetch_and_analyze(
   if seed and not is_chained:
     tokens = [t.lower() for t in re.split(r"\W+", seed) if len(t) >= 3]
     if tokens:
+      missing = [t for t in tokens if lower_text.count(t) == 0]
       mentions = sum(lower_text.count(token) for token in tokens)
-      if mentions < 2:
+      if missing or mentions < 2:
         return {
             "accepted": False,
             "reason": (
-                f"Mención tangencial de la semilla '{seed}' ({mentions}"
-                " aparición en el cuerpo)"
+                f"Mención insuficiente de la semilla '{seed}' (faltan:"
+                f" {missing}, total menciones: {mentions})"
             ),
         }
 
@@ -916,7 +917,32 @@ def parse_args() -> argparse.Namespace:
           " rescatados en fases previas"
       ),
   )
+  parser.add_argument(
+      "--collide",
+      action="store_true",
+      help=(
+          "Choca automáticamente 2 semillas de categorías distintas de"
+          " seeds.json en una misma búsqueda"
+      ),
+  )
   return parser.parse_args()
+
+
+def pick_colliding_seeds(seeds_path: Path, max_attempts: int = 12) -> str:
+  """Elige 2 semillas de categorías distintas que tengan intersección real en el buscador."""
+  with open(seeds_path, "r", encoding="utf-8") as f:
+    data: dict[str, list[str]] = json.load(f)
+  categories = list(data.keys())
+
+  for _ in range(max_attempts):
+    cat1, cat2 = random.sample(categories, 2)
+    s1 = random.choice(data[cat1]).split()[-1]
+    s2 = random.choice(data[cat2]).split()[-1]
+    combo = f"{s1} {s2}"
+    _, results = search_small_web(combo, count=3)
+    if results:
+      return combo
+  return "Wittgenstein Zen"
 
 
 def main() -> None:
@@ -940,6 +966,8 @@ def main() -> None:
 
   if args.seeds:
     seeds = args.seeds
+  elif args.collide:
+    seeds = [pick_colliding_seeds(seeds_file)]
   else:
     seeds = load_random_seeds(seeds_file, n=args.random)
 

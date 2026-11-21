@@ -38,3 +38,8 @@ Se elige **Python** por encima de Java por pragmatismo puro:
 - **Objetivo:** Traducir los ensayos rescatados al español usando `deep-translator` combinado con un glosario filosófico (`glossary.json`) que proteja y preserve conceptos técnicos complejos (continentales, gnósticos, esotéricos).
 - **Validación:** Traducir ensayos rescatados y auditar la fidelidad conceptual y legibilidad en español.
 - **Cierre:** Auditoría -> Commit & Push a `main`.
+
+### Fase 6: Curaduría Filológica con Skill del Proyecto y Edición PDF en Typst Universe [COMPLETADA]
+- **Objetivo:** Disponer de una Skill propia del proyecto (`.agents/skills/curate-essay/SKILL.md`) para que el agente revise la traducción, limpie erratas de scraping, clasifique la licencia legal para Twitter/X y compile el ensayo en un cuaderno PDF editorial (`publish.py`) usando `@preview/droplet:0.3.1` de *Typst Universe*. Incluye además el modo `--collide` en `scout.py` para chocar 2 semillas de categorías distintas.
+- **Validación:** Curar y compilar a PDF el ensayo *La cosmovisión gnóstica* y validar una colisión de dos semillas dispares (`"Wittgenstein Zen"`).
+- **Cierre:** Auditoría -> Commit & Push a `main`.
