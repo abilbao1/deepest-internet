@@ -11,23 +11,30 @@
 ## 2. Stack Tecnológico (Python vs Java)
 Se elige **Python** por encima de Java por pragmatismo puro:
 - Levantar el repositorio de *MarginaliaSearch* en Java implica correr un motor de búsqueda completo (índices Lucene, contenedores pesados y mucha RAM).
-- Con **Python**, consultamos directamente a Marginalia (vía su API/búsqueda web) a partir de nuestras semillas/queries (ej. *k-punk*, Mark Fisher, teoría cultural, blogs cyberpunk), descargamos los enlaces con `httpx`/`requests` y extraemos el texto limpio de los artículos con `trafilatura` en pocas líneas de código.
+- Con **Python**, consultamos directamente a Marginalia / Wiby a partir de nuestras semillas/queries, descargamos los enlaces con `requests`, extraemos párrafos y enlaces con `BeautifulSoup`, rescatamos enlaces caídos con la API de *Wayback Machine (Archive.org)* y traducimos textos con glosario filosófico protegido.
 
 ---
 
 ## 3. Hoja de Ruta (Fases Verticales)
 
-### Fase 1: Conexión con Marginalia y Extracción Cruda (Vertical Slice Mínimo)
-- **Objetivo:** Dado un término o semilla (ej. `"k-punk"`, `"Mark Fisher"`, `"hauntology"`), consultar Marginalia, obtener un puñado de URLs, descargar el texto limpio del artículo y guardarlo/mostrarlo en local.
-- **Validación:** Ejecutar el script con 1 query y verificar que descarga textos legibles.
+### Fase 1: Conexión con Marginalia/Wiby y Extracción Cruda (Vertical Slice Mínimo) [COMPLETADA]
+- **Objetivo:** Dado un término o semilla, consultar el buscador de la old-web, obtener URLs, descargar el texto limpio del artículo y mostrarlo en local.
 - **Cierre:** Auditoría -> Commit & Push a `main`.
 
-### Fase 2: Lógica de Filtrado Básico
-- **Objetivo:** Descartar ruido evidente (páginas sin texto, listados de links vacíos, textos demasiado cortos que no son ensayos/posts, o dominios que no nos interesan).
-- **Validación:** Comparar la salida antes y después del filtro con 2-3 semillas culturales/filosóficas.
+### Fase 2: Lógica de Filtrado Básico [COMPLETADA]
+- **Objetivo:** Descartar ruido evidente (páginas sin texto, listados de links vacíos, textos demasiado cortos que no son ensayos/posts, o dominios comerciales).
 - **Cierre:** Auditoría -> Commit & Push a `main`.
 
-### Fase 3: Salida Legible y Exploración de Blogrolls (Iteración)
-- **Objetivo:** Guardar los textos rescatados en archivos Markdown limpios (con su URL original y título) listos para leer, y extraer enlaces salientes interesantes para realimentar futuras búsquedas.
-- **Validación:** Revisar la carpeta de salida con los primeros textos rescatados.
+### Fase 3: Salida Legible por Carpetas y Extracción de Blogrolls [COMPLETADA]
+- **Objetivo:** Guardar los textos rescatados en carpetas `readings/<semilla>/<titulo>.md` y extraer enlaces salientes en `_links_para_explorar.md`.
+- **Cierre:** Auditoría -> Commit & Push a `main`.
+
+### Fase 4: Exploración Encadenada y Rescate en Wayback Machine
+- **Objetivo:** Si se selecciona una semilla que ya fue examinada (ya existe su carpeta y `_links_para_explorar.md`), partir de sus enlaces salientes pendientes en vez de buscar de cero. Si un enlace está caído en la web viva, rescatarlo automáticamente desde la API de *Wayback Machine (`archive.org`)* y registrar la URL histórica viva.
+- **Validación:** Re-ejecutar `"gnosticism"` para que explore sus enlaces salientes (incluyendo los caídos) y verifique el rescate desde Archive.org.
+- **Cierre:** Auditoría -> Commit & Push a `main`.
+
+### Fase 5: Traducción Automática al Español con Glosario Filosófico
+- **Objetivo:** Traducir los ensayos rescatados al español usando `deep-translator` combinado con un glosario filosófico (`glossary.json`) que proteja y preserve conceptos técnicos complejos (continentales, gnósticos, esotéricos).
+- **Validación:** Traducir ensayos rescatados y auditar la fidelidad conceptual y legibilidad en español.
 - **Cierre:** Auditoría -> Commit & Push a `main`.
