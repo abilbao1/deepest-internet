@@ -1,4 +1,5 @@
-# Plotinus: Against the Gnostics
+# Plotino: contra los gnósticos
+*(Título original: Plotinus: Against the Gnostics)*
 
 - **URL Funcional:** https://web.archive.org/web/20260326122551/http://trisagionseraph.tripod.com/Texts/Plotinus5.html
 - **URL Original (Caída):** http://thriceholy.net/Texts/Plotinus5.html *(Rescatada de Wayback Machine — captura `20260326`)*
@@ -10,7 +11,357 @@
 
 ---
 
-## Texto Rescatado
+
+## Texto en Español (Traducción con Glosario Filosófico)
+
+Plotino
+
+Contra los gnósticos
+
+Contra aquellos que afirman que el creador del cosmos y el cosmos mismo son malos
+
+(Según el sistema de numeración de Porfirio, este ensayo es el noveno tratado de la Segunda Enéada.)
+
+1. Hemos visto en otra parte que el Bien, el Principio, es simplex y, correspondientemente, primario pues lo secundario nunca puede ser simplex que no contiene nada: que es una Unidad integral.
+
+Ahora bien, la misma Naturaleza pertenece al Principio que conocemos como Lo Uno. Así como la bondad del Bien es esencial y no el resultado de alguna sustancia anterior, así la Unidad de Lo Uno es esencial.
+
+Por lo tanto:
+
+Cuando hablamos de Lo Uno y cuando hablamos de El Bien debemos reconocer una Naturaleza Idéntica; debemos afirmar que son lo mismo; no, es verdad, como aventurando ninguna predicación respecto de esa [incognoscible] Hipóstasis sino simplemente como indicándonosla en los mejores términos que encontramos.
+
+Incluso al llamarlo El Primero no queremos más que expresar que es el más absolutamente simplex: es lo Autosuficiente sólo en el sentido de que no es de esa naturaleza compuesta que lo haría dependiente de cualquier constituyente; es lo Autocontenido porque todo lo contenido en algo ajeno también debe existir por ese ajeno.
+
+Por tanto, no habiendo nada ajeno, no entrando en nada ajeno, de ningún modo inventado, no puede haber nada por encima de ello.
+
+Entonces, no necesitamos buscar otros Principios; este Lo Uno y el Bien es nuestro Primero; a su lado sigue el Principio Intelectual, el Pensador Primordial; y a esto le sigue el Alma. Éste es el orden en la naturaleza. El Reino Intelectual no permite más que esto ni menos.
+
+Aquellos que se aferran a menos Principios deben mantener la identidad de Principio Intelectual y Alma o de Principio Intelectual y El Primero; pero hemos demostrado abundantemente que son distintos.
+
+Nos queda por considerar si hay más que estos Tres.
+
+Ahora bien, ¿qué otras Clases [Divinas] podrían haber? No se podría encontrar ningún Principio del universo más simple y más trascendente que éste cuya existencia hemos afirmado y descrito.
+
+Difícilmente nos instarán a duplicar el Principio en Acto por un Principio en Potencialidad. Es absurdo buscar tal pluralidad distinguiendo entre potencialidad y actualidad en el caso de seres inmateriales cuya existencia es en Acto; incluso en formas inferiores no se puede hacer tal división y no podemos concebir una dualidad en el Principio Intelectual, una fase en alguna vaga calma, otra en pleno movimiento. ¿Bajo qué forma podemos pensar en el reposo del Principio Intelectual en contraste con su movimiento o expresión? ¿Cuál sería la quietud de la fase Lo Uno frente a la energía de las demás?
+
+No: el Principio Intelectual es continuamente él mismo, inmutablemente constituido en acto estable. Con el movimiento hacia él o dentro de él estamos en el reino de la operación del Alma: tal acto es un Principio de Razón que emana de él y entra en el Alma, convirtiéndose así en un Alma Intelectual, pero en ningún sentido crea un Principio intermedio que se interponga entre los dos.
+
+Tampoco estamos autorizados a afirmar una pluralidad de principios intelectuales sobre la base de que hay uno que sabe y piensa y otro que sabe y piensa. Porque cualquiera que sea la distinción posible en lo Divino entre su Acto Intelectual y su Conciencia de ese Acto, aún así todo debe ser una proyección no inconsciente de su propia operación: sería absurdo imaginar tal inconsciencia en la Inteligencia Auténtica; el principio cognoscente debe ser uno y el mismo con aquello que sabe del conocimiento.
+
+La suposición contraria nos daría dos seres, uno que meramente conoce y otro ser separado que conoce del acto de conocer.
+
+Si se nos responde que la distinción es meramente un proceso de nuestro pensamiento, entonces, de inmediato, se abandona la teoría de una pluralidad en la Hipóstasis Divina: además, se abre la cuestión de si nuestro pensamiento puede albergar un principio de conocimiento tan limitado a su conocimiento como para no saber que sabe; una limitación que sería acusada de imbecilidad incluso en nosotros mismos, quienes, aunque tengan una fuerza moral muy común, siempre somos dueños de nuestras emociones y procesos mentales.
+
+No: La Mente Divina en su mentación se piensa a sí misma; el objeto del pensamiento no es nada externo: Pensador y Pensamiento son uno; por lo tanto, en su pensar y conocer se posee a sí mismo, se observa y se ve no como algo inconsciente sino como conociendo: en este Saber Primigenio debe incluir, como un solo y mismo Acto, el conocimiento del conocer; e incluso la distinción lógica mencionada anteriormente no puede hacerse en el caso de lo Divino; la eternidad misma de su pensar en sí excluye cualquier separación entre ese acto intelectivo y la conciencia del acto.
+
+El absurdo se vuelve aún más flagrante si introducimos una distinción más: después de la que afirma el conocimiento del saber, una tercera distinción que afirma el saber del conocimiento del saber: sin embargo, no hay razón contra continuar la división por los siglos de los siglos.
+
+Incrementar los Primarios haciendo que la Mente Suprema engendre el Principio-Razón, y esto a su vez engendre en el Alma un poder distinto para actuar como mediador entre el Alma y la Mente Suprema, esto es negar la intelección al Alma, que ya no derivaría su Razón del Principio-Intelectual sino de un intermediario: el Alma entonces poseería no el Principio-Razón sino una imagen de él: el Alma no podría conocer el Principio-Intelectual; no podría tener intelección.
+
+2. Por lo tanto, no debemos afirmar más que estos tres Primarios: no debemos introducir distinciones superfluas que su naturaleza rechaza. Debemos proclamar un Principio Intelectual inmutablemente el mismo, de ningún modo sujeto a declinación, actuando a imitación, tan fiel como lo permita su naturaleza, del Padre.
+
+Y en cuanto a nuestra propia Alma debemos sostener que está, en parte, siempre en presencia de Los Seres Divinos, mientras que en parte se ocupa de las cosas de esta esfera y en parte ocupa un término medio. Es una naturaleza en poderes graduados; y a veces el Alma en su totalidad es llevada por lo más elevado en sí y en el Auténtico Existente; a veces, la parte menos noble es arrastrada hacia abajo y arrastra consigo al alma media, aunque la ley es que el Alma nunca puede sucumbir por completo.
+
+El desastre del Alma cae sobre ella cuando deja de morar en la Belleza perfecta la morada apropiada de esa Alma que no es parte y de la cual nosotros tampoco somos parte para derramar desde allí en el marco del Todo todo lo que el Todo pueda contener de bien y belleza. Allí descansa esa Alma, libre de toda solicitud, sin gobernar mediante planes o políticas, sin reparar, sino estableciendo el orden mediante la maravillosa eficacia de su contemplación de las cosas que están por encima de ella.
+
+Porque la medida de su absorción en esa visión es la medida de su gracia y poder, y lo que extrae de esta contemplación lo comunica a la esfera inferior, iluminada e iluminando siempre.
+
+3. Siempre iluminada, recibiendo luz inagotable, la Omnialma la imparte a toda la serie de Seres posteriores, que mediante esta luz son sostenidos, fomentados y dotados de la mayor medida de vida que cada uno puede absorber. Puede compararse con un fuego central que calienta cada cuerpo receptivo dentro de su alcance.
+
+Nuestro fuego, sin embargo, es algo de alcance limitado: dados poderes que no tienen limitación y que nunca están separados de las Existencias Auténticas, ¿cómo imaginar algo que exista y, sin embargo, no pueda recibir de ellas?
+
+Es de la esencia de las cosas que cada uno da de su ser a otro: sin esta comunicación, el Bien no sería Bueno, ni el Principio-Intelectual un Principio intelectivo, ni el Alma misma sería lo que es: la ley es, una vida después de la Vida Primaria, una segunda donde hay una primera; todos unidos en una cadena ininterrumpida; todo eterno; los tipos divergentes se engendran sólo en el sentido de ser secundarios.
+
+En otras palabras, las cosas comúnmente descritas como generadas nunca han conocido un comienzo: todo ha sido y será. Nada puede desaparecer a menos que sea posible una forma posterior: sin tal futuro no puede haber disolución.
+
+Si se nos dice que siempre existe la Materia como término posible, nos preguntamos por qué entonces la Materia misma no debería llegar a la nada. Si nos dicen que es posible, entonces nos preguntamos por qué debería haberse generado. Si llega la respuesta de que tenía el lugar necesario como último de la serie, respondemos que la necesidad sigue vigente.
+
+Dejando de lado la Materia como totalmente aislada, los Seres Divinos no están en todas partes sino en algún lugar delimitado, amurallado, por así decirlo; si eso no es posible, la Materia misma debe recibir la luz Divina [y por lo tanto no puede ser aniquilada].
+
+4. A quienes afirman que la creación es obra del Alma después de la caída de sus alas, respondemos que tal desgracia no podría alcanzar al Alma del Todo. Si nos dicen de su caída, deben decirnos también qué causó la caída. ¿Y cuándo tuvo lugar? Si es desde la eternidad, entonces el Alma debe ser esencialmente una cosa caída: si en algún momento, ¿por qué no antes?
+
+Afirmamos que su acto creativo es una prueba no de decadencia sino más bien de su firmeza. Su decadencia sólo podría consistir en olvidar lo Divino: pero si lo olvidara, ¿cómo podría crear? ¿De dónde crea sino de las cosas que conoció en lo Divino? Si crea a partir del recuerdo de esa visión, nunca cayó. Incluso suponiendo que se encuentre en algún oscuro estado intermedio, no es necesario suponer que sea más probable que decaiga: cualquier inclinación sería hacia su Prior, en un esfuerzo por lograr una visión más clara. Si quedara algún recuerdo, ¿qué otro deseo podría tener sino el de desandar el camino?
+
+¿Qué podría haber estado planeando ganar al crear el mundo? ¿Gloria? Sería absurdo: un motivo tomado de los escultores de nuestra tierra.
+
+Finalmente, si el Alma se creó por política y no por pura necesidad de su naturaleza, por ser característicamente el poder creador ¿cómo se explica la creación de este universo?
+
+¿Y cuándo destruirá la obra? Si se arrepiente de su trabajo, ¿a qué espera? Si todavía no se ha arrepentido, nunca se arrepentirá: debe estar ya acostumbrado al mundo, debe ser cada vez más tierno hacia él con el paso del tiempo.
+
+¿Puede estar esperando que ciertas almas todavía estén aquí? Hace tiempo que estos habrían dejado de regresar para tal renacimiento, habiendo conocido en vidas anteriores los males de esta esfera; Hacía mucho que se habrían abstenido de venir.
+
+Tampoco podemos conceder que este mundo sea de origen infeliz porque en él hay muchas cosas discordantes. Tal juicio lo calificaría demasiado alto, tratándolo como lo mismo que el Reino Inteligible y no simplemente como su reflejo.
+
+Y, sin embargo, ¿qué reflejo de ese mundo podría concebirse más hermoso que este el nuestro? ¿Qué fuego podría ser un reflejo más noble del fuego de allí que el fuego que conocemos aquí? ¿O qué otra Tierra además de esta podría haber sido modelada a partir de esa Tierra? ¿Y qué globo más minuciosamente perfecto que éste, o más admirablemente ordenado en su curso, podría haber sido concebido a imagen del giro egocéntrico del Mundo de los Inteligibles? Y para que un sol que figura en la esfera Divina sea más espléndido que el sol visible para nosotros, qué sol debe ser.
+
+5. Aún más irracionalmente:
+
+Hay hombres, atados a cuerpos humanos y sujetos al deseo, al dolor, a la ira, que piensan tan generosamente en su propia facultad que se declaran en contacto con el Mundo Inteligible, pero niegan que el sol posea una facultad similar menos sujeta a la influencia, al desorden, al cambio; niegan que sea más sabio que nosotros, los tardíos, obstaculizados por tantas trampas en el camino hacia la verdad.
+
+Su propia alma, el alma del último de los seres humanos, la declaran inmortal, divina; pero los cielos enteros y las estrellas dentro de los cielos no han tenido comunión con el Principio Inmortal, aunque son mucho más puros y más hermosos que sus propias almas; sin embargo, no están ciegos al orden, el modelo bien proporcionado, la disciplina que prevalece en los cielos, ya que son los que más ruidosamente se quejan del desorden que perturba nuestra tierra. Debemos imaginar al Alma inmortal eligiendo el diseño del lugar menos digno y prefiriendo abandonar el más noble al Alma que va a morir.
+
+Igualmente irrazonable es la introducción de esa otra Alma que construyen a partir de los elementos.
+
+¿Cómo podría surgir cualquier forma o grado de vida mediante una combinación de elementos? Su conjunción podría producir sólo una sustancia cálida o fría o intermedia, algo seco o húmedo o intermedio.
+
+Además, ¿cómo podría un alma así ser un vínculo que mantenga unidos a los cuatro elementos cuando es algo posterior y surge de ellos? Y este elemento alma se describe como poseedor de conciencia y voluntad y lo demás ¿qué podemos pensar?
+
+Además, estos maestros, en su desprecio por esta creación y esta tierra, proclaman que se les ha hecho otra tierra en la que entrarán cuando partan. Ahora bien, esta nueva tierra es la Razón-Forma [el Logos] de nuestro mundo. ¿Por qué deberían desear vivir en el arquetipo de un mundo que les aborrece?
+
+Por otra parte, ¿cuál es el origen de ese mundo patrón? Parecería, según la teoría, que el Hacedor ya se había inclinado hacia las cosas de esta esfera antes de que ese patrón surgiera.
+
+Ahora supongamos que el Hacedor anhela construir tal Mundo Intermedio, pero ¿qué motivo podría tener? además del mundo intelectual que Él posee eternamente. Si Él hizo el mundo medio primero, ¿para qué serviría?
+
+¿Ser morada de Almas?
+
+¿Cómo entonces cayeron de allí? Existe en vano.
+
+Si Él hubiera llegado más tarde que este mundo, abstrayendo la idea formal de este mundo y dejando fuera la Materia, las Almas que han llegado a conocer esa esfera intermedia habrían experimentado lo suficiente como para evitar que entren en ella. Si el significado es simplemente que las Almas exhiben la Forma Ideal del Universo, ¿qué hay de distintivo en la enseñanza?
+
+6. ¿Y qué pensar de las nuevas formas de ser que introducen sus Exilios y sus Impresiones y sus Arrepentimientos?
+
+Si todo llega a estados del Alma Arrepentimiento cuando ha sufrido un cambio de propósito; Impresiones cuando contempla no las Existencias Auténticas sino sus simulacros no hay aquí más que una jerga inventada para defender su escuela: toda esta terminología se acumula sólo para ocultar su deuda con la antigua filosofía griega que enseñaba, con claridad y sin grandilocuencia, el ascenso de la cueva y el avance gradual de las almas hacia una visión cada vez más verdadera.
+
+Porque, en suma, una parte de su doctrina proviene de Platón; todas las novedades con las que pretenden establecer una filosofía propia han sido recogidas fuera de la verdad.
+
+De Platón vienen sus castigos, sus ríos del inframundo y el cambio de cuerpo en cuerpo; en cuanto a la pluralidad que afirman en el Reino Intelectual el Existente Auténtico, el Principio Intelectual, el Segundo Creador y el Alma todo esto está tomado del Timeo, donde leemos:
+
+Tantas Formas Ideales como la Mente Divina vio morando dentro del Ser Verdaderamente Viviente, tantas el Creador resolvió que debían estar contenidas en este Todo.
+
+Al malinterpretar su texto, concibieron una Mente que incluye pasivamente dentro de sí todo lo que tiene ser, otra mente, una existencia distinta, que tiene visión, y una tercera que planifica el Universo aunque a menudo sustituyen esta Mente planificadora por el Alma como el Principio creador y piensan que este tercer ser es el Creador según Platón.
+
+De hecho, están bastante fuera de la verdad en su identificación del Creador.
+
+En todos los sentidos tergiversan la teoría de Platón sobre el método de creación, así como en muchos otros aspectos deshonran sus enseñanzas: debemos entender que han penetrado la Naturaleza Intelectual, mientras que Platón y todos esos otros ilustres maestros han fracasado.
+
+Esperan obtener el crédito de una identificación minuciosa y exacta estableciendo una pluralidad de Esencias intelectuales; pero en realidad esta multiplicación rebaja la Naturaleza Intelectual al nivel de los Sentidos Geniales: su verdadero curso es tratar de reducir el número al mínimo posible en el Supremo, simplemente refiriendo todas las cosas a la Segunda Hipóstasis que es todo lo que existe como Intelecto y Realidad Primordiales y es lo único bueno excepto sólo la primera Naturaleza y reconocer al Alma como el tercer Principio, explicando la diferencia entre las almas meramente por la diversidad de experiencia y carácter. En lugar de insultar a esos venerables maestros, deberían recibir su doctrina con el respeto debido al pensamiento más antiguo y honrar todo ese noble sistema: un alma inmortal, un Reino Intelectual e Inteligible, el Dios Supremo, la necesidad del Alma de emanciparse de toda relación con el cuerpo, el hecho de la separación de él, el escape del mundo del proceso al mundo del ser esencial. Hacen bien en adoptar estas doctrinas, todas afirmadas enfáticamente por Platón: cuando difieren, tienen plena libertad para decir lo que piensan, pero no para conseguir el consentimiento de sus propias teorías desollando y burlándose de los griegos; cuando tienen que mantener una teoría divergente, deben establecerla por sus propios méritos, declarando sus propias opiniones con cortesía y con método filosófico y expresando la opinión controvertida de manera justa; deben orientar su mente hacia la verdad y no buscar la fama mediante el insulto, injuriando y buscando en sus propias personas reemplazar a los hombres honrados por las excelentes inteligencias de épocas pasadas.
+
+De hecho, la antigua doctrina de las Esencias Divinas era mucho más sólida y más instruida, y debe ser aceptada por todos los que no están atrapados en los engaños que acosan a la humanidad: es fácil también identificar lo que se ha transmitido en estos últimos tiempos desde los antiguos con novedades incongruentes: cómo, por ejemplo, cuando deben establecer una doctrina contradictoria, introducen una mezcla de generación y destrucción, cómo critican al Universo, cómo culpan al Alma por la asociación con cuerpo, cómo denigran al Administrador de este Todo, cómo atribuyen al Creador, identificado con el Alma, el carácter y las experiencias propias de los seres parciales.
+
+7. Que este mundo no tiene principio ni fin, sino que existe para siempre mientras exista el Supremo, ciertamente no es una enseñanza nueva. Y antes de que surgiera esta escuela, se había insistido en que el comercio con el cuerpo no es una ganancia para el alma.
+
+Pero tratar el Alma humana como una presentación justa del Alma del Universo es como escoger alfareros y herreros y darles garantía para desacreditar a toda una ciudad bien ordenada.
+
+Debemos reconocer cuán diferente es el gobierno ejercido por la Omnialma; la relación no es la misma: no está encadenada. Entre tantas diferencias no debería haberse pasado por alto que el Nosotros [el Alma humana] está bajo grilletes; y esto en una segunda limitación, porque el Cuerpo-Tipo, ya encadenado dentro del Omnialma, aprisiona todo lo que capta.
+
+Pero el Alma del Universo no puede estar atada a lo que ella misma ha atado: es soberana y por tanto inmune a las cosas inferiores, de las que nosotros, por el contrario, no somos dueños. Lo que en él está dirigido a lo Divino y Trascendente está siempre sin mezcla, no conoce obstáculos; aquello que imparte vida al cuerpo no admite nada corporal para sí mismo. Es el hecho general de que un injerto [como el Cuerpo] necesariamente comparte las condiciones de su principio contenedor [como el Alma], y no comunica sus propias condiciones donde ese principio tiene una vida independiente: así, un injerto morirá si el tronco muere, pero el tronco vivirá con su vida adecuada aunque el injerto se marchite. El fuego dentro de ti puede apagarse, pero la cosa, el fuego, seguirá existiendo; y si el fuego mismo fuera aniquilado, eso no supondría ninguna diferencia para el Alma, el Alma en el Supremo, sino sólo para el plan del mundo material; y si los demás elementos bastaran para mantener un Cosmos, el Alma en el Supremo quedaría indiferente.
+
+La constitución del Todo es muy diferente de la de las formas de vida únicas y separadas: allí, la regla establecida que ordena la permanencia es soberana; aquí las cosas son como desertores mantenidos en su propio lugar y deber por un doble vínculo; no hay salida del Todo y, por lo tanto, no hay necesidad de restringir o de llevar a los errantes a sus límites: todo permanece donde desde el principio la naturaleza del Alma lo designó.
+
+El movimiento natural dentro del plan será perjudicial para cualquier cosa cuya tendencia natural se oponga: un grupo avanzará valientemente con el gran total al que está adaptado; los demás, al no poder cumplir con la orden mayor, son destruidos. Un gran coral avanza hacia su plan concertado; A mitad de la marcha, una tortuga es interceptada; incapaz de alejarse de la línea coral es pisoteado; pero si pudiera situarse dentro del movimiento mayor, tampoco sufriría nada.
+
+8. Preguntar por qué el Alma ha creado el Cosmos, es preguntar por qué hay un Alma y por qué crea un Creador. La pregunta, además, implica un comienzo en lo eterno y, además, representa la creación como el acto de un Ser cambiante que se vuelve de esto a aquello.
+
+Aquellos que así piensan deben ser instruidos, si quieren soportar la corrección, en la naturaleza de los Supremos, y se les debe inducir a desistir de esa blasfemia de los poderes majestuosos que les resulta tan fácil, cuando todos deberían tener escrúpulos reverentes.
+
+Incluso en la administración del Universo no hay fundamento para tal ataque, ya que proporciona una prueba manifiesta de la grandeza del género intelectual.
+
+Este Todo que ha surgido en la vida no es una estructura amorfa –como esas formas menores dentro de él que nacen noche y día de la abundancia de su vitalidad– el Universo es una vida organizada, eficaz, compleja, omnicomprensiva, que despliega una sabiduría insondable. ¿Cómo, entonces, puede alguien negar que se trata de una imagen clara, bellamente formada, de las Divinidades Intelectuales? Sin duda es copia, no original; pero esa es su propia naturaleza; no puede ser al mismo tiempo símbolo y realidad. Pero decir que es una copia inadecuada es falso; no se ha dejado fuera nada que una bella representación dentro del orden físico pudiera incluir.
+
+Tal reproducción debe existir necesariamente aunque no por deliberación y artificio porque lo Intelectual no puede ser la última de las cosas, sino que debe tener un doble Acto, uno dentro de sí y otro saliente; debe haber, entonces, algo posterior a lo Divino; pues sólo aquello en lo que termina todo poder deja de pasar hacia abajo algo de sí mismo. En el Supremo florece un vigor maravilloso y por eso produce.
+
+Dado que no existe un Universo más noble que éste, ¿no está claro cuál debe ser? Es necesaria una representación que transmita los rasgos del ámbito intelectual; no hay otro Cosmos que este; por lo tanto, ésta es tal representación.
+
+Esta tierra nuestra está llena de variadas formas de vida y de seres inmortales; hasta los mismos cielos está lleno de gente. Y las estrellas, las de las esferas superior e inferior, moviéndose en su ordenada trayectoria, compañeras de viaje del universo, ¿cómo pueden ser menos que dioses? Seguramente deben ser moralmente buenos: ¿qué podría impedirlos? Todo lo que aquí abajo ocasiona el vicio es desconocido allí el mal del cuerpo, perturbado y perturbador.
+
+Conocimiento también; en su paz inquebrantable, ¿qué les impide alcanzar la comprensión intelectual de la Divinidad y los Dioses intelectuales? ¿Qué se puede imaginar para darnos una sabiduría más elevada que la que pertenece a los Supremos? ¿Podría alguien, que no haya caído en la más absoluta locura, soportar tal idea?
+
+Admitiendo que las Almas humanas han descendido bajo la restricción del Omni-Alma, ¿debemos pensar que las constreñidas son más nobles? Entre las Almas, lo que manda debe ser superior a lo que obedece. Y si la venida fue sin restricciones, ¿por qué criticar un mundo que usted ha elegido y puede abandonar si no le gusta?
+
+Y además, si el orden de este Universo es tal que podemos, dentro de él, practicar la sabiduría y vivir nuestro curso terrenal según lo Supremo, ¿no prueba eso que es una dependencia de lo Divino?
+
+9. La riqueza y la pobreza, y todas las desigualdades de ese orden, son motivo de queja. Pero esto es ignorar que el Sabio no exige igualdad en tales asuntos: no puede pensar que poseer muchas cosas equivale a ser más rico o que los poderosos tienen lo mejor de los simples; deja todas esas preocupaciones a otro tipo de hombre. Ha aprendido que la vida en la tierra tiene dos formas distintas, el camino del Sabio y el camino de la masa, el Sabio concentrado en lo más sublime, en el reino superior, mientras que aquellos del tipo más estrictamente humano caen, nuevamente, bajo dos clases, Lo Uno [El Único] que recuerda la virtud y por lo tanto no está exento de contacto con el bien, la otra mera población, que sirve para proporcionar lo necesario a los mejores.
+
+¿Pero qué pasa con el asesinato? ¿Qué pasa con la debilidad que somete a los hombres a la esclavitud de las pasiones?
+
+¿Es de extrañar que haya fallas y errores, no en el Principio más elevado, el intelectual, sino en Almas que son como niños no desarrollados? ¿Y no está justificada la vida aun así si es un campo de entrenamiento con sus vencedores y sus vencidos?
+
+Estás agraviado; ¿Necesita ese problema un inmortal? Eres condenado a muerte; has logrado tu deseo. Y desde el momento en que tu ciudadanía del mundo se vuelve fastidiosa, no estás obligado a ello.
+
+Nuestros adversarios no niegan que también aquí hay un sistema de ley y de pena: y seguramente no podemos reprochar en justicia un dominio que concede a cada uno lo que le corresponde, donde la virtud tiene su honor y el vicio llega a su justa vergüenza, en el que no hay meras representaciones de los dioses, sino los dioses mismos, vigilantes de lo alto, y como leemos refutan fácilmente los reproches humanos, ya que conducen todas las cosas en orden desde el principio hasta el fin, asignando a cada ser humano, como la vida sigue a la vida, una fortuna moldeada a todo lo que la ha precedido; el destino que, para aquellos que no penetran en ella, se convierte en materia de grosera insolencia sobre las cosas divinas.
+
+La única tarea de un hombre es esforzarse por hacerse perfecto, aunque no en la idea (realmente fatal para la perfección) de que ser perfecto sólo es posible para él mismo.
+
+Debemos reconocer que otros hombres han alcanzado las alturas del bien; debemos admitir la bondad de los espíritus celestes, y sobre todo de los dioses, aquellos cuya presencia aquí no es más que su contemplación en el Supremo, y el más elevado de ellos, el señor de este Todo, el Alma bendita. Elevándonos aún más alto, cantamos a las divinidades de la Esfera Intelectual y, sobre todas ellas, al poderoso Rey de ese dominio, cuya majestad se hace patente en la multitud misma de los dioses.
+
+No es aplastando lo divino en una unidad, sino mostrando su exuberancia como el Supremo mismo lo ha mostrado que mostramos conocimiento del poder de Dios, quien, siendo permanentemente lo que Él es, crea esa multitud, todos dependientes de Él, existiendo por Él y desde Él.
+
+Este Universo también existe por Él y mira a Él el Universo como un todo y cada Dios dentro de él y habla de Él a los hombres, revelando todos por igual el plan y la voluntad del Supremo.
+
+Estos, en la naturaleza de las cosas, no pueden ser lo que Él es, pero eso no justifica que los desprecies, que te esfuerces por no ser inferior a ellos.
+
+Cuanto más perfecto es el hombre, más dócil es, incluso con sus semejantes; debemos moderar nuestra importancia, sin ir más allá de lo que nuestra naturaleza merece; debemos permitir también a otros seres su lugar en la presencia de la Divinidad; no podemos situarnos solos después del Primero en un vuelo onírico que nos prive de nuestro poder de alcanzar la identidad con la Divinidad en la medida posible para el Alma humana, es decir, hasta el punto de semejanza al que nos lleva el Principio Intelectual; exaltarnos por encima del Principio Intelectual es caer de él.
+
+Sin embargo, se encuentran imbéciles que aceptan tal enseñanza con el mero sonido de las palabras: “Tú, tú mismo, debes ser más noble que todo lo demás, más noble que los hombres, más noble que incluso los dioses”. La audacia humana es muy grande: un hombre que alguna vez fue modesto, comedido y sencillo oye: “Tú, tú mismo, eres hijo de Dios; esos hombres a quienes ustedes veneraban, esos seres cuyo culto heredan desde la antigüedad, ninguno de estos son Sus hijos; vosotros sin levantar la mano sois más nobles que los mismos cielos; otros se hacen eco del grito: el resultado será como si en una multitud todos igualmente ignorantes de las cifras, a un hombre le dijeran que mide mil pies cúbicos; naturalmente aceptará sus mil codos, aunque se dice que los demás presentes miden sólo cinco codos; simplemente se dirá a sí mismo que mil indican una cifra considerable.
+
+Otro punto: Dios se preocupa por ti; ¿Cómo entonces puede ser indiferente a todo el Universo en el que existes?
+
+Se nos puede decir que está demasiado ocupado para mirar el Universo y que no sería correcto que lo hiciera; sin embargo, cuando Él mira hacia abajo y hacia estas personas, ¿no está mirando fuera de Sí mismo y hacia el Universo en el que existen? Si Él no puede mirar fuera de Sí mismo para contemplar el Cosmos, entonces tampoco los mira a ellos.
+
+¿Pero no tienen necesidad de Él?
+
+El Universo tiene necesidad de Él, y Él conoce su orden y sus moradores y hasta qué punto le pertenecen y hasta qué punto del Supremo, y cuáles de los hombres que lo habitan son amigos de Dios, aceptando levemente la dispensación Cósmica cuando en el curso total de las cosas debe causarles algún dolor; porque no debemos mirar a la voluntad única de ningún hombre sino al universo entero, considerando a cada uno según su valor, pero sin detenernos en aquellas cosas en las que todo lo que puede avanzar se apresura.
+
+No hay un solo tipo de ser que se empeña en esta búsqueda, que trae felicidad a quien lo logra y garantiza a los demás un destino futuro de acuerdo con su poder. Por lo tanto, ningún hombre puede jactarse de ser el único competente; una pretensión no es una posesión; muchos se jactan aunque son plenamente conscientes de su carencia y muchos se imaginan que poseen lo que nunca fue suyo e incluso que son los únicos que poseen lo que ellos, los únicos hombres, nunca tuvieron.
+
+10. Bajo una investigación detallada, muchos otros principios de esta escuela (de hecho, podríamos decir todos) podrían corregirse con abundantes pruebas. Pero siento respeto por algunos de nuestros propios amigos que aceptaron esta doctrina antes de unirse a nuestro círculo y, curiosamente, todavía se aferran a ella.
+
+La escuela, sin duda, habla con bastante libertad, ya sea con el propósito de dar a sus opiniones un color plausible de verdad o con una creencia honesta, pero aquí nos dirigimos a nuestros propios conocidos, no a aquellas personas con las que no pudimos entender nada. Hemos hablado con la esperanza de impedir que nuestros amigos se sientan perturbados por una fiesta que aporta, no pruebas, ¿cómo podría hacerlo? pero afirmación arbitraria y tiránica; otro estilo de tratamiento sería aplicable a aquellos que tienen la audacia de despreciar las nobles y verdaderas doctrinas de los augustos maestros de la antigüedad.
+
+Ese método no lo aplicaremos; Cualquiera que haya comprendido plenamente la discusión anterior sabrá cómo abordar cada punto del sistema.
+
+Sólo se mencionará otro principio suyo antes de pasar al asunto; es uno que supera a todos los demás en pura locura, si esa es la palabra.
+
+Primero sostienen que el Alma y cierta Sabiduría [Sofía] declinaron y entraron en esta esfera inferior, aunque nos dejan con la duda de si el movimiento se originó en el Alma o en esta Sofía suya, o si las dos son iguales para ellos; luego nos dicen que las otras Almas descendieron en el descenso y que estos miembros de Sofía tomaron para sí cuerpos, cuerpos humanos, por ejemplo.
+
+Sin embargo, al mismo tiempo, se declara que esa misma Alma que fue la ocasión del descenso a los demás no ha descendido. No conoció decadencia, sino que simplemente iluminó la oscuridad de tal manera que una imagen de ella se formó sobre la Materia. Luego, moldean una imagen de esa imagen en algún lugar de abajo a través de la Materia o de la Materialidad o cualquier otra cosa de los muchos nombres que eligen darle en su frecuente cambio de términos, inventados para oscurecer su doctrina y así crean lo que llaman el Creador o Demiurgo, luego este inferior se separa de su Madre [Sofía] y se convierte en el autor del Cosmos hasta la última de la sucesión de imágenes que lo constituyen.
+
+Tal es la blasfemia de uno de sus escritores.
+
+11. Ahora bien, en primer lugar, si el Alma en realidad no ha bajado sino que ha iluminado las tinieblas, ¿cómo se puede decir verdaderamente que ha declinado? La salida de algo parecido a la luz no justifica la afirmación de su decadencia; para ello debe realizar un movimiento real hacia el objeto que se encuentra en el reino inferior e iluminarlo mediante el contacto.
+
+Si, por otra parte, el Alma se mantiene en su propio lugar e ilumina lo inferior sin dirigir ningún acto hacia ese fin, ¿por qué debería ser ella sola la iluminadora? ¿Por qué el Cosmos no debería obtener luz también de los poderes aún mayores contenidos en la totalidad de la existencia?
+
+Nuevamente, si el Alma posee el plan de un Universo, y en virtud de este plan lo ilumina, ¿por qué esa iluminación y la creación del mundo no ocurren simultáneamente? ¿Por qué debe el Alma esperar hasta que las representaciones del plan se hagan realidad?
+
+Por otra parte, este Plan el País Lejano según su terminología creado, según sostienen, por las grandes potencias, no podría haber sido motivo de decadencia para sus creadores.
+
+Además, ¿cómo explicar que bajo esta iluminación la Materia del Cosmos produzca imágenes del orden del Alma en lugar de mera naturaleza corporal? Una imagen del Alma no podría exigir oscuridad o Materia, pero dondequiera que se formara exhibiría el carácter del elemento productor y permanecería en estrecha unión con él.
+
+Además, ¿es esta imagen un ser real o, como dicen, una Intelección?
+
+Si es una realidad, ¿en qué se diferencia de su original? ¿Siendo una forma distinta del Alma? Pero entonces, como la original es el Alma razonante, esta forma secundaria debe ser el Alma vegetativa y generativa; y entonces, ¿qué pasa con la teoría de que se produce por causa de la gloria, qué pasa con la creación en arrogancia y autoafirmación? La teoría pone fin también a la creación por representación y, más decididamente aún, a todo pensamiento en el acto; ¿Y qué necesidad le queda a un creador que crea a través de la Materia y la Imagen?
+
+Si se trata de una Intelección, entonces nos preguntamos primero “¿Qué justifica el nombre?” y luego “¿Cómo llega a existir algo a menos que el Alma dé a esta Intelección poder creativo y cómo, después de todo, puede residir el poder creativo en una cosa creada?” ¿Se nos debe decir que se trata de una primera Imagen seguida de una segunda? Pero esto es bastante arbitrario.
+
+¿Y por qué el fuego es la primera creación?
+
+12. ¿Y cómo cumple esta imagen su tarea inmediatamente después de nacer?
+
+¿Por el recuerdo de lo que ha visto?
+
+Pero era completamente inexistente, no podía tener visión, ni ella ni la Madre que le otorgaban.
+
+Otra dificultad: estas personas vienen a la tierra no como imágenes del alma sino como verdaderas almas; sin embargo, mediante gran tensión y tensión, uno o dos de ellos son capaces de moverse más allá de los límites del mundo, y cuando alcanzan la Reminiscencia apenas llevan consigo algún ligero recuerdo de la Esfera que una vez conocieron; por otra parte, esta Imagen, una recién llegada a la existencia, es capaz, nos dicen, al igual que su Madre de formar al menos una vaga representación del mundo celestial. Es una Imagen, estampada en la Materia, pero no sólo tiene la concepción del Supremo y adopta de ese mundo el plan de este, sino que sabe qué elementos sirven a ese propósito. ¿Cómo, por ejemplo, llegó a hacer fuego antes que nada? ¿Qué hizo que considerara que el fuego era mejor que cualquier otro objeto?
+
+Además, si creó el fuego del Universo pensando en el fuego, ¿por qué no creó el Universo de un plumazo pensando en el Universo? Debe haber concebido el producto completo desde el principio; los elementos constitutivos quedarían incluidos en esa concepción general.
+
+La creación debe haber sido en todos los aspectos más conforme a la manera de la Naturaleza que a la de las artes; pues las artes son de origen posterior a la Naturaleza y al Universo, e incluso en la etapa actual las cosas parciales creadas por las especies naturales no siguen tal orden; primero el fuego, luego los demás elementos, luego las diversas mezclas de éstos; por el contrario, el organismo viviente entero está abarcado y redondeado dentro del germen uterino. ¿Por qué no debería abarcarse de manera similar la materia del Universo en un Tipo Cósmico en el que estarían incluidos la tierra, el fuego y el resto? Sólo podemos suponer que estas mismas personas, actuando por su Alma más auténtica, habrían producido el mundo mediante tal proceso, pero que el Creador no tuvo el ingenio para hacerlo.
+
+Y, sin embargo, concebir la vasta extensión de los Cielos ser grande en ese grado idear la oblicuidad del Zodíaco y la trayectoria circular de todos los cuerpos celestes debajo de él, y esta tierra nuestra y todo de tal manera que se pueda dar razón para el plan esto nunca podría ser obra de una Imagen; habla de ese Poder [la Omnialma] junto a los Seres Más Elevados.
+
+Contra su voluntad, ellos mismos lo admiten: su eclipsación sobre las tinieblas, si se tamiza la doctrina, hace imposible negar los verdaderos orígenes del Cosmos.
+
+¿Por qué debería tener lugar este descenso a menos que tal proceso perteneciera a una ley universal?
+
+O el proceso está en el orden de la Naturaleza o en contra de ese orden. Si está en la naturaleza de las cosas, debe haber ocurrido desde la eternidad; si va contra la naturaleza de las cosas, entonces la violación del derecho natural existe también en el Supremo; el mal es anterior a este mundo; la causa del mal no es el mundo; por el contrario, el Supremo es el mal para nosotros; en lugar de que el daño del Alma provenga de esta esfera, tenemos esta Esfera dañada por el Alma.
+
+En definitiva, la teoría equivale a hacer del mundo uno de los Primordiales, y con él la Materia de la que emerge.
+
+El Alma que declinó, nos dicen, vio e iluminó las Tinieblas ya existentes. Ahora bien, ¿de dónde vino esa Oscuridad?
+
+Si nos dicen que el Alma creó la Oscuridad mediante su Decadencia, entonces, obviamente, no había ningún lugar al que el Alma pudiera declinar; la causa del declive no fue la Oscuridad sino la naturaleza misma del Alma. La teoría, por tanto, remite todo el proceso a compulsiones preexistentes: la culpa es inherente a los Seres Primordiales.
+
+13. Quienes, pues, censuran la constitución del Cosmos no entienden lo que hacen ni adónde les lleva esta audacia. No entienden que existe un orden sucesivo de Primarios, Secundarios, Terciarios y así sucesivamente hasta los Últimos; que no hay que reprochar nada por ser inferior al Primero; que no podemos sino aceptar, dócilmente, la constitución del total, y hacer nuestro mejor camino hacia los Primordiales, retirándonos del trágico espectáculo, tal como ellos lo ven, de las esferas Cósmicas, que en realidad son todas suaves gentilezas.
+
+¿Y qué hay, después de todo, de terrible en estas Esferas con las que se pretende asustar a personas no acostumbradas a pensar, nunca entrenadas en una Gnosis instructiva y coherente?
+
+Incluso el hecho de que su estructura material sea de fuego no los hace terribles; sus Movimientos están en consonancia con el Todo y con la Tierra: pero lo que debemos considerar en ellos es el Alma, aquello en lo que estos pueblos basan su propio título de honor.
+
+Y, sin embargo, nuevamente, sus estructuras materiales son preeminentes en inmensidad y belleza, ya que cooperan en acto y en influencia con todo el orden de la Naturaleza, y nunca pueden dejar de existir mientras existan los Primordiales; entran en la realización del Todo del cual son Partes principales.
+
+Si los hombres ocupan un lugar destacado entre los demás seres vivientes, mucho más lo tienen aquellos cuyo oficio en el Todo no es jugar al tirano sino servir a la belleza y al orden. La acción que se les atribuye debe entenderse como una predicción de acontecimientos venideros, mientras que la causa de toda la variedad se debe, en parte, a destinos diversos porque no puede haber una suerte para todo el cuerpo de los hombres en parte al momento del nacimiento, en parte a amplias divergencias de lugar, en parte a estados de las Almas.
+
+Una vez más, no tenemos derecho a pedir que todos los hombres sean buenos, ni a apresurarnos a censurar porque tal virtud universal no es posible: esto sería repetir el error de confundir nuestra esfera con el Supremo y tratar el mal como un fracaso casi insignificante en la sabiduría, como si el bien disminuyera y disminuyera continuamente, un desvanecimiento continuo; sería como llamar malo al Principio de Naturaleza porque no es Percepción Sensorial y a la cosa de los sentidos mala por no ser un Principio de Razón. Si el mal no es más que eso, estaremos obligados a admitir el mal también en el Supremo, porque allí también el Alma es menos exaltada que el Principio Intelectual, y éste también tiene su Superior.
+
+14. De otra manera infringen aún más gravemente la inviolabilidad del Supremo.
+
+En las fórmulas sagradas que inscriben, pretendiendo dirigirse a los Seres Supremos (no sólo al Alma sino incluso a los Trascendentes), simplemente están pronunciando hechizos, apaciguamientos y evocaciones con la idea de que estos Poderes obedecerán un llamado y serán guiados por una palabra de cualquiera de nosotros que esté en algún grado entrenado para usar las formas apropiadas de la manera apropiada (ciertas melodías, ciertos sonidos, respiraciones especialmente dirigidas, gritos sibilantes y todo lo demás a lo que Se le atribuye potencia mágica al Supremo. Quizás repudiarían tal intención; aun así, deben explicar cómo actúan estas cosas sobre los incorpóreos: no ven que el poder que atribuyen a sus propias palabras está tan alejado de la majestad de lo divino.
+
+Nos dicen que pueden liberarse de las enfermedades.
+
+Si quisieran decir vida templada y un régimen apropiado, estarían en lo cierto y de acuerdo con todo conocimiento sólido. Pero afirman que las enfermedades son seres espirituales y se jactan de poder expulsarlas mediante fórmulas: esta pretensión puede aumentar su importancia entre la multitud, boquiabierta ante los poderes de los magos; pero nunca pueden persuadir a los inteligentes de que la enfermedad surge de otras causas que no sean el exceso de esfuerzo, el exceso, la deficiencia y la putrefacción; en una palabra, alguna variación ya sea desde dentro o desde fuera.
+
+La naturaleza de la enfermedad está indicada por su misma curación. Un movimiento, una medicina, la sangría, y la enfermedad disminuye y desaparece; a veces la escasez de alimento restaura el sistema: presumiblemente el poder espiritual tiene hambre o se debilita por la purga. O este Espíritu sale apresuradamente o permanece dentro. Si persiste, ¿cómo desaparece la enfermedad si la causa sigue presente? Si abandona el lugar, ¿qué lo ha expulsado? ¿Le ha pasado algo? ¿Debemos suponer que prosperó gracias a la enfermedad? En ese caso, la enfermedad existía como algo distinto del poder espiritual. Por otra parte, si interviene donde no existe ninguna causa de enfermedad, ¿por qué debería haber algo más que enfermedad? Si debe haber tal causa, el Espíritu es innecesario: esa causa es suficiente para producir esa fiebre. En cuanto a la idea de que justo cuando la causa se presenta, el Espíritu vigilante salta para incorporarse a ella, es simplemente divertida.
+
+Pero la manera y el motivo de su enseñanza han sido suficientemente exhibidos; y este fue el propósito principal de la discusión aquí sobre sus poderes espirituales. Les dejo a ustedes la lectura de los libros y el examen del resto de la doctrina: notarán en todo momento cómo nuestra forma de filosofía inculca la sencillez de carácter y el pensamiento honesto además de todas las demás buenas cualidades, cómo cultiva la reverencia y la autoafirmación no arrogante, cómo su audacia se equilibra con la razón, con la prueba cuidadosa, con la progresión cautelosa y con la mayor circunspección, y compararán esos otros sistemas con uno que procede según este método. Descubrirá que los principios de su escuela han sido agrupados bajo un plan muy diferente: no merecen ningún examen más detenido aquí.
+
+15. Hay, sin embargo, una cuestión que de ninguna manera debemos pasar por alto: el efecto de estas enseñanzas sobre los oyentes inducidos por ellas a despreciar el mundo y todo lo que hay en él.
+
+Hay dos teorías sobre el logro del fin de la vida. Lo Uno propone como término placer, placer corporal; el otro se pronuncia por el bien y la virtud, cuyo deseo proviene de Dios y se mueve, por caminos que deben estudiarse en otra parte, hacia Dios.
+
+Epicuro niega una Providencia y recomienda el placer y su disfrute, todo lo que nos queda a nosotros: pero la doctrina en discusión es aún más lasciva; critica a la Providencia y al Señor de la Providencia; desprecia todas las leyes que conocemos; la virtud inmemorial y toda moderación la convierte en hazmerreír, para que no se vea ninguna hermosura en la tierra; corta la raíz de toda vida ordenada y de la rectitud que, innata en el sentido moral, se perfecciona con el pensamiento y la autodisciplina: todo lo que nos daría un ser humano noble ha desaparecido. Lo que les queda, excepto cuando el alumno, por su propio carácter, mejora la enseñanza, es el placer, el egoísmo, el rencor por compartir con sus semejantes, la búsqueda de ventajas.
+
+Su error es que no conocen nada bueno aquí: lo único que les importa es algo más a lo que se dedicarán en algún momento futuro; sin embargo, este mundo, para aquellos que lo han conocido una vez, debe ser el punto de partida de la búsqueda: llegados aquí desde la naturaleza divina, deben inaugurar su esfuerzo con alguna corrección terrenal. La comprensión de la belleza sólo se da a una naturaleza que desprecia el deleite del cuerpo, y aquellos que no participan en el bien hacer no pueden dar ningún paso hacia lo Supremo.
+
+Esta escuela, de hecho, está condenada por su negligencia en toda mención de la virtud: falta por completo cualquier discusión sobre tales cuestiones: no se nos dice qué es la virtud ni bajo qué diferentes clases aparece; no hay noticias de todas las numerosas y nobles reflexiones sobre ello que nos han llegado de los antiguos; no aprendemos qué la constituye ni cómo se adquiere, cómo se cuida el Alma, cómo se limpia. Porque decir “Mira a Dios” no es útil sin alguna instrucción sobre lo que significa esa mirada: bien podría decirse que uno puede “mirar” y aun así no sacrificar ningún placer, seguir siendo esclavo del impulso, repitiendo la palabra Dios pero sujeto a todas las pasiones y sin hacer ningún esfuerzo por dominar ninguna. La virtud, avanzar hacia el Término y, ligada al pensamiento, ocupar un Alma, hace manifestar a Dios: Dios en los labios, sin una buena conducta de vida, es palabra.
+
+16. Por otra parte, despreciar esta Esfera, y a los Dioses que hay dentro de ella o cualquier otra cosa que sea hermosa, no es el camino hacia el bien.
+
+Todo malhechor empezó por despreciar a los dioses; y quien antes no era corrupto, acepta este desprecio, aunque en otros aspectos no sea del todo malo, se convierte en un malhechor por el mismo hecho.
+
+Además, en este desprecio a los Dioses Mundanos y al mundo, el honor que profesan a los dioses de la Esfera Intelectual se vuelve una inconsistencia; Donde amamos, nuestros corazones también son cálidos hacia el Pariente del amado; No somos indiferentes a los hijos de nuestro amigo. Ahora bien, cada Alma es hija de ese Padre; pero en los cuerpos celestes hay Almas, intelectivas, santas, mucho más cercanas a los Seres Supremos que las nuestras; porque ¿cómo puede este Cosmos ser algo separado de Aquello y cómo imaginarse a los dioses en él separados?
+
+Pero este asunto lo hemos tratado en otro lugar: aquí insistimos en que donde hay desprecio por el Kin del Supremo, el conocimiento del Supremo mismo es meramente verbal.
+
+¿Qué clase de piedad puede hacer que la Providencia se detenga ante las preocupaciones terrenas o le ponga algún límite?
+
+¿Y qué coherencia hay en esta escuela cuando proceden a afirmar que la Providencia se preocupa por ellos, aunque sólo por ellos?
+
+¿Y esta Providencia sobre ellos debe entenderse sólo en su existencia en ese otro mundo o también en su vida aquí? Si en el otro mundo, ¿cómo llegaron a esto? Si están en este mundo, ¿por qué no han resucitado ya de él?
+
+Nuevamente, ¿cómo pueden negar que el Señor de la Providencia está aquí? ¿De qué otra manera puede saber Él que están aquí, o que en su estancia aquí no lo han olvidado y abandonado? Y si conoce la bondad de unos, debe conocer la maldad de otros, para distinguir el bien del mal. Eso significa que Él está presente para todos, está, de cualquier manera, dentro de este Universo. El Universo, por tanto, debe ser partícipe de Él.
+
+Si Él está ausente del Universo, Él está ausente de ustedes mismos y no pueden tener nada que contar sobre Él ni sobre los poderes que vienen después de Él.
+
+Pero, admitiendo que una Providencia llegue hasta vosotros desde el mundo del más allá haciendo cualquier concesión a vuestro gusto , no deja de ser cierto que este mundo se sostiene desde lo Supremo y no está desierto ni lo estará: una Providencia que vigila la totalidad es incluso más probable que una que esté sólo sobre fragmentos; y de manera similar, la Participación es más perfecta en el caso del Omnialma, como lo demuestra, además, la existencia misma de las cosas y la sabiduría manifestada en su existencia. De aquellos que promueven estas descabelladas pretensiones, ¿quién está tan bien ordenado, tan sabio, como el Universo? La comparación es ridícula, completamente fuera de lugar; hacerlo, excepto como ayuda hacia la verdad, sería impiedad.
+
+La cuestión misma no puede ser considerada por ningún ser inteligente, sino sólo por alguien tan ciego, tan completamente desprovisto de percepción y pensamiento, tan lejos de cualquier visión del Universo Intelectual como para ni siquiera ver este mundo propio.
+
+Porque ¿quién que verdaderamente percibe la armonía del reino intelectual podría no responder, si tiene alguna inclinación hacia la música, a la armonía de los sonidos sensibles? ¿Qué geómetra o aritmético podría no disfrutar de las simetrías, correspondencias y principios de orden observados en las cosas visibles? Consideremos, incluso, el caso de las imágenes: quienes ven con el sentido corporal las producciones del arte de pintar no ven la cosa Lo Uno de la única manera; se conmueven profundamente al reconocer en los objetos representados ante los ojos la presentación de lo que hay en la idea, y por eso son llamados al recuerdo de la verdad, la experiencia misma de la que surge el Amor. Ahora bien, si la visión de la Belleza excelentemente reproducida en un rostro apresura la mente hacia esa otra Esfera, seguramente nadie que vea la hermosura que se prodiga en el mundo de los sentidos (ese vasto orden, la Forma que muestran las estrellas incluso en su lejanía), nadie podría ser tan tonto, tan inamovible, como para no dejarse llevar por todo esto al recuerdo y apoderarse de un temor reverente al pensar en todo esto, tan grande, surgido. de esa grandeza. No responder así sólo podría significar no haber sondeado este mundo ni haber tenido visión alguna de aquel otro.
+
+17. Quizás el odio de esta escuela por lo corpóreo se deba a su lectura de Platón, quien arremete contra el cuerpo como un grave obstáculo para el alma y declara que lo corpóreo es característicamente inferior.
+
+Entonces déjenles pasar por el momento sobre el elemento corpóreo en el Universo y estudien todo lo que aún queda. Pensarán en la Esfera Intelectual que incluye en sí misma la Forma-Ideal realizada en el Cosmos.
+
+Pensarán en las Almas, en su orden ordenado, que producen magnitud incorpórea y conducen lo inteligible hacia la extensión espacial, de modo que finalmente la cosa del proceso se convierte, por su magnitud, en una representación lo más adecuada posible del principio vacío de partes que es su modelo; la grandeza de poder se traduce aquí en grandeza de volumen. Entonces, ya sea que piensen que la Esfera Cósmica [la Omnialma] ya está en movimiento bajo la guía de ese poder de Dios que la sostiene de principio a fin, principio, medio y fin, o si la consideran en reposo y que todavía no ejerce ningún gobierno externo: cualquiera de los enfoques conducirá a una verdadera apreciación del Alma que conduce este Universo.
+
+Ahora que pongan el cuerpo dentro de ella, no en el sentido de que el Alma sufra algún cambio sino que, ya que “En los Dioses no puede haber rencor”, da a su inferior todo lo que cualquier cosa parcial tiene fuerza para recibir y de inmediato debe revisarse su concepción del Cosmos; no pueden negar que el Alma del Cosmos ha ejercido tal peso de poder que ha llevado al principio corpóreo, en sí mismo desagradable, a participar del bien y de la belleza hasta el máximo de su receptividad y hasta un punto que conmueve a las Almas, seres del orden divino.
+
+Sin duda, estas personas pueden decir que ellos mismos no sienten tal conmoción y que no ven ninguna diferencia entre las formas corporales bellas y feas; pero, además, no pueden hacer distinción entre lo feo y lo bello en su conducta; las ciencias no pueden tener belleza; no puede haber ninguno en el pensamiento; y ninguno, por tanto, en Dios. Este mundo desciende de los Primeros: si este mundo no tiene belleza, tampoco la tiene su Fuente; A partir de allí, este mundo también debe tener sus cosas bellas. Y mientras proclaman su desprecio por la belleza terrena, harían bien en ignorar la de los jóvenes y las mujeres para no dejarse vencer por la incontinencia.
+
+En fin, hay que considerar que su autosatisfacción no puede derivar de un desprecio por algo indiscutiblemente bajo; el suyo es el orgullo perverso de despreciar lo que alguna vez fue admirado.
+
+Siempre debemos tener presente que la belleza de una cosa parcial no puede ser idéntica a la de un todo; ni varios objetos pueden ser tan majestuosos como el total.
+
+Y debemos reconocer que, incluso en el mundo de los sentidos y de las partes, hay cosas de una hermosura comparable a la de los Celestiales: formas cuya belleza debe llenarnos de veneración por su creador y convencernos de su origen en lo divino, formas que muestran cuán inefable es la belleza del Supremo ya que no pueden retenernos pero debemos, aunque con toda admiración, dejarlas por aquellas. Además, dondequiera que haya belleza interior, podemos estar seguros de que lo interior y lo exterior se corresponden; donde el interior es vil, todo se derrumba por ese defecto de los dominantes.
+
+Nada básico en el interior puede ser hermoso sin él, al menos no con una belleza auténtica, pues hay ejemplos de un buen exterior que no surge de una belleza interior dominante; las personas que pasan por hermosas pero esencialmente viles tienen eso, una belleza espuria y superficial: si alguien me dice que ha visto personas realmente hermosas pero interiormente viles, no puedo más que negarlo; tenemos aquí simplemente una noción falsa de belleza personal; a menos, en efecto, que la vileza interior fuera un accidente en una naturaleza esencialmente buena; En esta Esfera hay muchos obstáculos para la autorrealización.
+
+En cualquier caso, el Todo es bello y no puede haber ningún obstáculo para su bondad interior: donde la naturaleza de una cosa no conlleva la perfección desde el principio, puede haber un fracaso en su completa expresión; puede haber incluso una caída en la vileza, pero el Todo nunca conoció una inmadurez infantil; nunca experimentó un progreso que le aportara novedad; nunca tuvo crecimiento corporal: no había ningún lugar de donde pudiera tomar tal incremento; siempre fue el All-Container.
+
+E incluso para su Alma nadie podría imaginar tal camino de proceso: o, si se concediera, ciertamente no podría ser hacia el mal.
+
+18. Pero tal vez esta escuela sostenga que, mientras su enseñanza conduce al odio y al abandono total del cuerpo, la nuestra ata al alma en él.
+
+Dicho de otra manera: dos personas habitan la casona señorial de Lo Uno; uno de ellos declama contra su proyecto y contra su Arquitecto, pero sin embargo mantiene su residencia en él; el otro no se queja, afirma toda la competencia del arquitecto y espera alegremente el día en que pueda abandonarla, ya que ya no necesita una casa: el descontento se imagina más sabio y más dispuesto a marcharse porque ha aprendido a repetir que las paredes son de piedra y madera sin alma y que el lugar está muy lejos de ser un verdadero hogar; no ve que su única distinción es no poder soportar la necesidad suponiendo que su conducta, sus quejas, no encubran una secreta admiración por la belleza de esas mismas piedras. Mientras tengamos cuerpos debemos habitar las moradas preparadas para nosotros por nuestra buena hermana el Alma en su vasto poder de creación sin trabajo.
+
+¿O esta escuela rechazaría la palabra Hermana? Están dispuestos a dirigirse a los hombres más bajos como hermanos; ¿Son capaces de desvariar hasta el punto de repudiar el vínculo con el Sol y los poderes de los Cielos y el Alma misma del Cosmos? Es cierto que ese parentesco no es para los viles; sólo puede afirmarse de aquellos que se han vuelto buenos y ya no son cuerpo sino Alma encarnada y con la cualidad de habitar el cuerpo de una manera muy parecida a la morada interna. del Omnialma en el marco universal. Y esto significa continencia, autocontrol, mantenerse firme contra el placer exterior y contra el espectáculo exterior, sin permitir que ninguna dificultad perturbe la mente. La Omnialma es inmune al shock; no hay nada que pueda afectarla: pero nosotros, en nuestro paso por aquí, debemos recurrir a la virtud para repeler estos ataques, reducidos para nosotros desde el principio por una gran concepción de la vida, anulada por la fuerza madura.
+
+Al alcanzar algo de esta inmunidad, comenzamos a reproducir dentro de nosotros el Alma del vasto Todo y de los cuerpos celestes: cuando lleguemos a la más estrecha semejanza, todo el esfuerzo de nuestra ferviente búsqueda se dirigirá hacia esa meta a la que ellos también tienden; su visión contemplativa se vuelve nuestra, preparados como estamos, primero por disposición natural y luego por todo este entrenamiento, para ese estado que es suyo por el Principio de su Ser.
+
+Esta escuela puede pretender la visión como una dignidad reservada a ellos mismos, pero no están más cerca de la visión por la afirmación o por la jactancia de que, si bien los poderes celestiales, ligados para siempre al orden de los Cielos, nunca pueden permanecer fuera del universo material, ellos mismos tienen su libertad en su muerte. Esto es una incapacidad para comprender la noción misma de “estar afuera”, una incapacidad para apreciar el modo en que la Omnialma cuida de los que no tienen alma.
+
+No: es posible liberarse del amor al cuerpo; llevar una vida limpia, ignorar la muerte; conocer lo Más Alto y apuntar a ese otro mundo; no calumniar, como negligentes en la búsqueda, a otros que son capaces y fieles a ella; y no equivocarnos con aquellos que niegan el movimiento vital a las estrellas porque, a nuestro entender, están quietas; error que de otra forma lleva a esta escuela a negar la visión exterior de la Naturaleza Estelar, sólo porque no ven el Alma Estelar en manifestación exterior.
+
+Las Enéadas de Plotino en su totalidad están disponibles en la biblioteca Thriceholy. Las piezas ocasionales que Plotino escribió durante su vida fueron recopiladas por su discípulo Porfirio y organizadas según los principios del misticismo numérico en secciones de nueve capítulos; de ahí las 'Enéadas'. Dadas las circunstancias de la compilación de las Enéadas, los lectores que esperen una relación importante entre un capítulo y el siguiente se sentirán, por supuesto, decepcionados:
+
+Las Enéadas
+
+---
+
+<details>
+<summary>Ver texto original en inglés</summary>
 
 Plotinus
 
@@ -355,6 +706,8 @@ No: it is possible to go free of love for the body; to be clean-living, to disre
 Plotinus' Enneads in their entirety are available in the Thriceholy library. The occasional pieces Plotinus wrote during his lifetime were collected by his disciple Porphyry and organized under the principles of number mysticism into sections of nine chapters; thus, the 'Enneads.' Given the circumstances of the Enneads' compilation, readers expecting a relation of consequence between one chapter and the next will, of course, be disappointed:
 
 The Enneads
+
+</details>
 
 ---
 

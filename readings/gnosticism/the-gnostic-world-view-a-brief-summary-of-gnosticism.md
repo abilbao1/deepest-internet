@@ -1,4 +1,5 @@
-# The Gnostic World View: A Brief Summary of Gnosticism
+# La visión gnóstica del mundo: un breve resumen del gnosticismo
+*(Título original: The Gnostic World View: A Brief Summary of Gnosticism)*
 
 - **URL Original:** http://www.gnosis.org/gnintro.htm
 - **Dominio:** `gnosis.org`
@@ -9,7 +10,109 @@
 
 ---
 
-## Texto Rescatado
+
+## Texto en Español (Traducción con Glosario Filosófico)
+
+Archivo de Gnosis | Biblioteca | Librería | Índice | Conferencias web | Eclesia Gnóstica | Sociedad Gnóstica
+
+La visión gnóstica del mundo:
+
+Un breve resumen del gnosticismo
+
+EL GNOSTICISMO ES LA ENSEÑANZA basada en la Gnosis, el conocimiento de la trascendencia al que se llega por medios interiores e intuitivos. Aunque el gnosticismo se basa en la experiencia religiosa personal, es un error asumir que toda esa experiencia da como resultado reconocimientos gnósticos. Es más cercano a la verdad decir que el gnosticismo expresa una experiencia religiosa específica, una experiencia que no se presta al lenguaje de la teología o la filosofía, sino que tiene una estrecha afinidad con el mito y se expresa a través de él. De hecho, uno descubre que la mayoría de las escrituras gnósticas adoptan la forma de mitos. El término "mito" no debe entenderse aquí como "historias que no son ciertas", sino más bien, que las verdades encarnadas en estos mitos son de un orden diferente de los dogmas de la teología o las declaraciones de la filosofía.
+
+En el siguiente resumen intentaremos resumir en prosa lo que los mitos gnósticos expresan en su lenguaje distintivamente poético e imaginativo.
+
+El cosmos
+
+Todas las tradiciones religiosas reconocen que el mundo es imperfecto. Donde difieren es en las explicaciones que ofrecen para explicar esta imperfección y en lo que sugieren que se podría hacer al respecto. Los gnósticos tienen su propia visión, tal vez bastante sorprendente, sobre estos asuntos: sostienen que el mundo tiene fallas porque fue creado de una manera defectuosa.
+
+Al igual que el budismo, el gnosticismo comienza con el reconocimiento fundamental de que la vida terrenal está llena de sufrimiento. Para alimentarse, todas las formas de vida se consumen unas a otras, infligiéndose así dolor, miedo y muerte (incluso los animales herbívoros viven destruyendo la vida de las plantas). Además, las llamadas catástrofes naturales (terremotos, inundaciones, incendios, sequías, erupciones volcánicas) traen consigo más sufrimiento y muerte. El ser humano, con su compleja fisiología y psicología, no sólo es consciente de estas dolorosas características de la existencia terrenal. También sufren por el reconocimiento frecuente de que son extraños que viven en un mundo imperfecto y absurdo.
+
+Muchas religiones defienden que se debe culpar a los humanos por las imperfecciones del mundo. En apoyo de esta opinión, interpretan que el mito del Génesis declara que las transgresiones cometidas por la primera pareja humana provocaron una “caída” de la creación que resultó en el actual estado corrupto del mundo. Los gnósticos responden que esta interpretación del mito es falsa. La culpa de los fracasos del mundo no es de los humanos, sino del creador. Puesto que (especialmente en las religiones monoteístas) el creador es Dios, esta posición gnóstica parece blasfema y a menudo es vista con consternación incluso por los no creyentes.
+
+Se han ideado una y otra vez formas de evadir el reconocimiento de la creación defectuosa y de su creador defectuoso, pero ninguno de estos argumentos ha impresionado a los gnósticos. Los antiguos griegos, especialmente los platónicos, aconsejaban a la gente mirar hacia la armonía del universo, para que al venerar su grandeza pudieran olvidar sus aflicciones inmediatas. Pero como esta armonía todavía contiene los crueles defectos, el desamparo y la alienación de la existencia, los gnósticos consideran que este consejo es de poco valor. Los gnósticos tampoco consideran la idea oriental del Karma como una explicación adecuada de la imperfección y el sufrimiento de la creación. El karma, en el mejor de los casos, sólo puede explicar cómo funciona la cadena de sufrimiento e imperfección. En primer lugar, no nos informa por qué debería existir un sistema tan doloroso y maligno.
+
+Una vez que se disipa el impacto inicial de la naturaleza “inusual” o “blasfema” de la explicación gnóstica del sufrimiento y la imperfección del mundo, uno puede comenzar a reconocer que, de hecho, es la más sensata de todas las explicaciones. Sin embargo, para apreciarlo plenamente se requiere estar familiarizado con la concepción gnóstica de la Divinidad, tanto en su esencia original como Dios Verdadero como en su manifestación degradada como Dios falso o creador.
+
+deidad
+
+El concepto de Dios gnóstico es más sutil que el de la mayoría de las religiones. A su manera, une y concilia los reconocimientos del monoteísmo y el politeísmo, así como del teísmo, el deísmo y el panteísmo.
+
+Desde el punto de vista gnóstico, existe un Dios verdadero, último y trascendente, que está más allá de todos los universos creados y que nunca creó nada en el sentido en que normalmente se entiende la palabra "crear". Si bien este Dios Verdadero no formó ni creó nada, Él (o Él) “emanó” o produjo desde dentro de Sí mismo la sustancia de todo lo que hay en todos los mundos, visibles e invisibles. En cierto sentido, por tanto, puede ser cierto decir que todo es Dios, pues todo consiste en la sustancia de Dios. Del mismo modo, también se debe reconocer que muchas porciones de la esencia divina original se han proyectado tan lejos de su fuente que sufrieron cambios nocivos en el proceso. Adorar al cosmos, a la naturaleza o a las criaturas encarnadas equivale, pues, a adorar porciones alienadas y corruptas de la esencia divina emanada.
+
+El mito gnóstico básico tiene muchas variaciones, pero todas ellas se refieren a eones, seres deíficos intermedios que existen entre el Dios verdadero y último y nosotros mismos. Ellos, junto con el Dios Verdadero, comprenden el reino de la Plenitud (Pléroma) donde opera plenamente la potencia de la divinidad. La Plenitud contrasta con nuestro estado existencial, que en comparación puede llamarse vacío.
+
+Uno de los seres eónicos que lleva el nombre de Sofía (“Sabiduría”) es de gran importancia para la visión gnóstica del mundo. En el curso de sus viajes, Sofía llegó a emanar de su propio ser una conciencia defectuosa, un ser que se convirtió en el creador del cosmos material y psíquico, todo lo cual creó a imagen de su propio defecto. Este ser, desconociendo sus orígenes, se imaginaba a sí mismo como el Dios último y absoluto. Dado que tomó la esencia divina ya existente y la transformó en varias formas, también se le llama Demiurgos o “medio-hacedor”. Hay una mitad auténtica, un verdadero componente deífico dentro de la creación, pero no es reconocida por el medio-hacedor y por sus secuaces cósmicos, los Arcontes o “gobernantes”.
+
+El ser humano
+
+La naturaleza humana refleja la dualidad que se encuentra en el mundo: en parte fue hecha por el falso Dios creador y en parte consiste en la luz del Dios Verdadero. La humanidad contiene un componente físico y psíquico perecedero, así como un componente espiritual que es un fragmento de la esencia divina. A esta última parte se la suele denominar simbólicamente “chispa divina”. El reconocimiento de esta naturaleza dual del mundo y del ser humano le ha valido a la tradición gnóstica el epíteto de “dualista”.
+
+Los humanos generalmente ignoran la chispa divina que reside en su interior. Esta ignorancia es fomentada en la naturaleza humana por la influencia del falso creador y sus Arcontes, quienes juntos intentan mantener a hombres y mujeres ignorantes de su verdadera naturaleza y destino. Cualquier cosa que nos haga permanecer apegados a las cosas terrenales sirve para mantenernos esclavizados por estos gobernantes cósmicos inferiores. La muerte libera la chispa divina de su humilde prisión, pero si el alma no ha realizado un trabajo sustancial de Gnosis antes de la muerte, es probable que la chispa divina sea arrojada de regreso a los dolores y la esclavitud del mundo físico y luego reencarnada en ellos.
+
+No todos los humanos son espirituales (neumáticos) y por tanto están preparados para la Gnosis y la liberación. Algunos son seres terrenales y materialistas (hyletics), que reconocen sólo la realidad física. Otros viven en gran medida en su psique (psíquicos). Estas personas suelen confundir al Demiurgo con el Dios Verdadero y tienen poca o ninguna conciencia del mundo espiritual más allá de la materia y la mente.
+
+En el curso de la historia, el hombre progresa desde la esclavitud materialista de los sentidos, a través de la religiosidad ética, hacia la libertad espiritual y la Gnosis liberadora. Como escribió el erudito G. Quispel: “El espíritu del mundo en el exilio debe atravesar el Infierno de la materia y el Purgatorio de la moral para llegar al Paraíso espiritual”. Este tipo de evolución de la conciencia fue imaginada por los gnósticos mucho antes de que se conociera el concepto de evolución.
+
+salvación
+
+Sin embargo, las fuerzas evolutivas por sí solas son insuficientes para lograr la libertad espiritual. Los seres humanos están atrapados en una situación que consiste en una existencia física combinada con la ignorancia de sus verdaderos orígenes, su naturaleza esencial y su destino final. Para liberarse de esta situación, el ser humano necesita ayuda, aunque también debe aportar su propio esfuerzo.
+
+Desde los primeros tiempos, los Mensajeros de la Luz han surgido del Dios Verdadero para ayudar a los humanos en su búsqueda de la Gnosis. Sólo unas pocas de estas figuras salvíficas se mencionan en las escrituras gnósticas; algunos de los más importantes son Set (el tercer hijo de Adán), Jesús y el profeta Mani. La mayoría de los gnósticos siempre consideraron a Jesús como la principal figura salvadora (el Sóter).
+
+Los gnósticos no buscan la salvación del pecado (original u otro), sino de la ignorancia de la cual el pecado es consecuencia. La ignorancia -es decir, la ignorancia de las realidades espirituales- es disipada sólo por la Gnosis, y la revelación decisiva de la Gnosis la traen los Mensajeros de la Luz, especialmente Cristo, el Logos del Dios Verdadero. No es por Su sufrimiento y muerte sino por Su vida de enseñanza y Su establecimiento de misterios que Cristo ha realizado Su obra de salvación.
+
+El concepto gnóstico de salvación, como otros conceptos gnósticos, es sutil. Por el lado de Lo Uno, la salvación gnóstica puede fácilmente confundirse con una experiencia individual inmediata, una especie de proyecto espiritual de "hágalo usted mismo". Los gnósticos sostienen que el potencial de la gnosis y, por tanto, de la salvación está presente en cada hombre y mujer, y que la salvación no es vicaria sino individual. Al mismo tiempo, también reconocen que la gnosis y la salvación pueden ser, y de hecho deben ser, estimuladas y facilitadas para que surjan efectivamente en la conciencia. Este estímulo es proporcionado por los Mensajeros de la Luz quienes, además de sus enseñanzas, establecen misterios salvíficos (sacramentos) que pueden ser administrados por los apóstoles de los Mensajeros y sus sucesores.
+
+También es necesario recordar que el conocimiento de nuestra verdadera naturaleza, así como otras realizaciones asociadas, nos son negados por nuestra propia condición de existencia terrenal. El Dios Verdadero de la trascendencia es desconocido en este mundo, de hecho a menudo se le llama el Padre Desconocido. Por tanto, es obvio que se necesita revelación de lo Alto para lograr la salvación. La chispa interior debe ser despertada de su letargo terrestre por el conocimiento salvador que viene “de afuera”.
+
+conducta
+
+Si se entiende que las palabras “ética” o “moralidad” significan un sistema de reglas, entonces el gnosticismo se opone a ambas. Estos sistemas suelen tener su origen en el Demiurgo y están diseñados de forma encubierta para servir a sus propósitos. Si, por otra parte, se dice que la moralidad consiste en una integridad interna que surge de la iluminación de la chispa interior, entonces el gnóstico abrazará esta ética existencial espiritualmente informada como ideal.
+
+Para el gnóstico, los mandamientos y las reglas no son salvadores; no son sustancialmente conducentes a la salvación. Las reglas de conducta pueden servir a numerosos fines, incluida la estructuración de una sociedad ordenada y pacífica y el mantenimiento de relaciones armoniosas dentro de los grupos sociales. Sin embargo, las reglas no son relevantes para la salvación; eso sólo se logra mediante la Gnosis. Por lo tanto, la moralidad debe verse principalmente en términos temporales y seculares; está siempre sujeto a cambios y modificaciones de acuerdo con el desarrollo espiritual del individuo.
+
+Como se señaló en la discusión anterior, los "materialistas hiléticos" generalmente tienen poco interés en la moralidad, mientras que los "disciplinarios psíquicos" a menudo le otorgan una gran importancia. En contraste, las personas “espirituales neumáticas” generalmente están más preocupadas por otros asuntos más elevados. Los diferentes períodos históricos también requieren actitudes variantes respecto de la conducta humana. Así, tanto el movimiento gnóstico maniqueo como el cátaro, que funcionaron en tiempos en los que la pureza de conducta se consideraba una cuestión de gran importancia, respondieron de la misma manera. El período actual de la cultura occidental tal vez se parezca más al de la Alejandría de los siglos segundo y tercero. Por lo tanto, parece apropiado que los gnósticos de nuestra época adopten las actitudes del gnosticismo alejandrino clásico, en el que las cuestiones de conducta se dejaban en gran medida a la intuición del individuo.
+
+El gnosticismo abarca numerosas actitudes generales hacia la vida: fomenta el desapego y la inconformidad con el mundo, un “estar en el mundo, pero no ser del mundo”; falta de egoísmo; y el respeto por la libertad y la dignidad de los demás seres. Sin embargo, pertenece a la intuición y sabiduría de cada “gnóstico” individual destilar de estos principios pautas individuales para su aplicación personal.
+
+Destino
+
+Cuando le preguntaron a Confucio sobre la muerte, respondió: “¿Por qué me preguntas sobre la muerte si no sabes cómo vivir?” Esta respuesta podría fácilmente haberla dado un gnóstico. A una pregunta similar planteada en el Evangelio gnóstico de Tomás, Jesús respondió que los seres humanos deben llegar a la Gnosis para conocer la realidad divina e inefable de donde se originaron y adónde regresarán. Este conocimiento trascendental debe llegarles mientras todavía están encarnados en la Tierra.
+
+La muerte no produce automáticamente la liberación de la esclavitud en los reinos del Demiurgo. Aquellos que no han alcanzado una Gnosis liberadora mientras estaban encarnados pueden quedar atrapados en la existencia una vez más. Es muy probable que esto ocurra a través del ciclo de renacimientos. El gnosticismo no enfatiza de manera prominente la doctrina de la reencarnación, pero en la mayoría de las enseñanzas gnósticas se entiende implícitamente que aquellos que no hayan hecho contacto efectivo con sus orígenes trascendentales mientras estaban encarnados tendrían que regresar a la dolorosa condición de la vida terrenal.
+
+Con respecto a la salvación, o el destino del espíritu y el alma después de la muerte, uno debe ser consciente de que hay ayuda disponible. Valentinus, el más grande de los maestros gnósticos, enseñó que Cristo y Sofía esperan al hombre espiritual -el gnóstico pneumático- a la entrada del Pléroma, y ​​lo ayudan a entrar en la cámara nupcial de la reunión final. Ptolomeo, discípulo de Valentino, enseñó que incluso aquellos que no tenían estatus pneumático, los psíquicos, podían ser redimidos y vivir en un mundo celestial a la entrada del Pléroma. En la plenitud de los tiempos, todo ser espiritual recibirá Gnosis y se unirá con su Yo superior, el Gemelo angélico, calificándose así para entrar en el Pléroma. Sin embargo, nada de esto es posible sin un esfuerzo serio por alcanzar la Gnosis.
+
+Gnosis y psique: la conexión psicológica profunda
+
+A lo largo del siglo XX, la nueva disciplina científica de la psicología profunda ha ganado mucha prominencia. Entre los psicólogos profundos que han mostrado un interés pronunciado e informado por el gnosticismo, un lugar destacado pertenece a C. G. Jung. Jung jugó un papel decisivo al llamar la atención sobre la biblioteca de escritos gnósticos de Nag Hammadi en la década de 1950 porque percibió la extraordinaria relevancia psicológica de las ideas gnósticas.
+
+El destacado estudioso del gnosticismo, G. Filoramo, escribió: "Las reflexiones de Jung habían estado durante mucho tiempo inmersas en el pensamiento de los antiguos gnósticos hasta tal punto que los consideraba los descubridores virtuales de la 'psicología profunda'... la antigua Gnosis, aunque en su forma de religión universal, en cierto sentido prefiguraba, y al mismo tiempo ayudaba a aclarar, la naturaleza de la terapia espiritual junguiana". A la luz de tales reconocimientos uno puede preguntarse: "¿Es el gnosticismo una religión o una psicología?" La respuesta es que muy bien pueden ser ambas cosas. La mayoría de los mitologemas que se encuentran en las escrituras gnósticas poseen relevancia y aplicabilidad psicológica. Por ejemplo, el creador ciego y arrogante Demiurgo tiene un gran parecido con el ego humano alienado que ha perdido contacto con el Yo ontológico. Además, el mito de Sofía se parece mucho a la historia de la psique humana que pierde su conexión con el inconsciente colectivo y necesita ser rescatada por el Yo. Las analogías de este tipo existen en gran abundancia.
+
+Muchas enseñanzas esotéricas han proclamado: "Como es arriba, así es abajo". Nuestra naturaleza psicológica (el microcosmos) refleja la naturaleza metafísica (el macrocosmos), por lo que el gnosticismo puede poseer una autenticidad tanto psicológica como religiosa. La psicología gnóstica y la religión gnóstica no tienen por qué ser excluyentes entre sí, sino que pueden complementarse dentro de un orden implícito de totalidad. Los gnósticos siempre han sostenido que la divinidad es inmanente al espíritu humano, aunque no se limita a él. La convergencia de la enseñanza religiosa gnóstica con la visión psicológica es, por tanto, bastante comprensible en términos de principios gnósticos consagrados por el tiempo.
+
+Conclusión
+
+Algunos escritores hacen una distinción entre “gnosis” y “gnosticismo”. Estas distinciones son útiles y engañosas. La gnosis es sin duda una experiencia basada no en conceptos y preceptos, sino en la sensibilidad del corazón. El gnosticismo, por otra parte, es la visión del mundo basada en la experiencia de la Gnosis. Por esta razón, en otros idiomas además del inglés, la palabra Gnosis se utiliza a menudo para denotar tanto la experiencia como la visión del mundo (die Gnosis en alemán, la Gnose en francés).
+
+En cierto sentido, no hay Gnosis sin Gnosticismo, porque la experiencia de la Gnosis inevitablemente provoca una visión del mundo en la que encuentra su lugar. La visión gnóstica del mundo es experiencial, se basa en un cierto tipo de experiencia espiritual de Gnosis. Por lo tanto, no será suficiente omitir o diluir varias partes de la visión gnóstica del mundo, porque si se hiciera esto, la visión del mundo ya no se ajustaría a la experiencia.
+
+Se ha llamado a la teología una envoltura intelectual alrededor del núcleo espiritual de una religión. Si esto es cierto, entonces también lo es que la mayoría de las religiones están siendo estranguladas y sofocadas por sus envoltorios. El gnosticismo no corre este peligro, porque su visión del mundo está expresada en el mito más que en la teología. Los mitos, incluidos los gnósticos, pueden interpretarse de diversas maneras. La trascendencia, la numinosidad, así como los arquetipos psicológicos, junto con otros elementos, juegan un papel en dicha interpretación. Aún así, estas declaraciones míticas hablan de verdades profundas que no se pueden negar.
+
+El gnosticismo puede traernos tales verdades con gran autoridad, porque habla con la voz de la parte más elevada del ser humano: el espíritu. De este espíritu, se ha dicho, “sopla donde quiere”. Esta es entonces la razón por la cual la visión gnóstica del mundo no pudo ser extirpada a pesar de muchos siglos de persecución.
+
+La visión gnóstica del mundo siempre ha sido oportuna, pues siempre respondió mejor al “conocimiento del corazón” que es la verdadera Gnosis. Sin embargo, hoy su actualidad es cada vez mayor, ya que el final del segundo milenio ha visto el deterioro radical de muchas ideologías que eludieron las grandes preguntas y respuestas abordadas por el gnosticismo. La claridad, franqueza y autenticidad de la respuesta gnóstica a las preguntas de la situación humana no pueden dejar de impresionar y (con el tiempo) convencer. Si sus reacciones a este resumen han sido igualmente positivas, ¡quizás usted mismo sea un gnóstico!
+
++ Stephan A. Hoeller (Tau Stephanus, obispo gnóstico)
+
+Archivo de Gnosis | Biblioteca | Librería | Índice | Conferencias web | Eclesia Gnóstica | Sociedad Gnóstica
+
+---
+
+<details>
+<summary>Ver texto original en inglés</summary>
 
 Gnosis Archive | Library | Bookstore | Index | Web Lectures | Ecclesia Gnostica | Gnostic Society
 
@@ -106,6 +209,8 @@ The Gnostic world view has always been timely, for it always responded best to t
 + Stephan A. Hoeller (Tau Stephanus, Gnostic Bishop)
 
 Gnosis Archive | Library | Bookstore | Index | Web Lectures | Ecclesia Gnostica | Gnostic Society
+
+</details>
 
 ---
 

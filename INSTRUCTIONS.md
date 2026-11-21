@@ -29,12 +29,12 @@ Se elige **Python** por encima de Java por pragmatismo puro:
 - **Objetivo:** Guardar los textos rescatados en carpetas `readings/<semilla>/<titulo>.md` y extraer enlaces salientes en `_links_para_explorar.md`.
 - **Cierre:** Auditoría -> Commit & Push a `main`.
 
-### Fase 4: Exploración Encadenada y Rescate en Wayback Machine
+### Fase 4: Exploración Encadenada y Rescate en Wayback Machine [COMPLETADA]
 - **Objetivo:** Si se selecciona una semilla que ya fue examinada (ya existe su carpeta y `_links_para_explorar.md`), partir de sus enlaces salientes pendientes en vez de buscar de cero. Si un enlace está caído en la web viva, rescatarlo automáticamente desde la API de *Wayback Machine (`archive.org`)* y registrar la URL histórica viva.
 - **Validación:** Re-ejecutar `"gnosticism"` para que explore sus enlaces salientes (incluyendo los caídos) y verifique el rescate desde Archive.org.
 - **Cierre:** Auditoría -> Commit & Push a `main`.
 
-### Fase 5: Traducción Automática al Español con Glosario Filosófico
+### Fase 5: Traducción Automática al Español con Glosario Filosófico [COMPLETADA]
 - **Objetivo:** Traducir los ensayos rescatados al español usando `deep-translator` combinado con un glosario filosófico (`glossary.json`) que proteja y preserve conceptos técnicos complejos (continentales, gnósticos, esotéricos).
 - **Validación:** Traducir ensayos rescatados y auditar la fidelidad conceptual y legibilidad en español.
 - **Cierre:** Auditoría -> Commit & Push a `main`.
